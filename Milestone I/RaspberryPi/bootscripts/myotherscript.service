@@ -1,0 +1,14 @@
+[Unit]
+Description=My other service
+After=network.target
+
+[Service]
+ExecStart=/home/pi/my_env/bin/python /home/pi/project/RPiClient/Client_jamesfork.py  
+WorkingDirectory=/home/pi/
+StandardOutput=inherit
+StandardError=inherit
+Restart=always
+User=pi
+
+[Install]
+WantedBy=multi-user.target
