@@ -1,7 +1,7 @@
 # CS 122A - Air Quality Meter Station
 
 # Project Information: 
-<!--- The project already has a “CS100 RShell” header. Under that you should have the quarter and year as well as both partners names and SID--->
+<!--- The project already has a â€œCS100 RShellâ€ header. Under that you should have the quarter and year as well as both partners names and SID--->
 * Fall 2019
 * James Moron
 
@@ -19,8 +19,6 @@ In simple terms, this project is a data collecting server with a Carbon Monoxide
 ![Hardware Diagram](/images/image2.png)
 ![Wiring Diagram](/images/image1.png)
 ![Wiring Image](/images/wiring.jpg)
+![Wiring Image](/images/20191211_185655.jpg)
 
 
-# Prototypes/Research: 
-# Development and Testing Roadmap: 
-<!--- Using the design you have set out above, create an ordered list of development tasks that need to be fulfilled before the system can be completed. Note that this list will be relatively ordered, as some tasks can be completed in parallel. This list should include not only primary development tasks, that is building of classes and function, but also should include creating both unit and integration tests. For each item in your list, you should create a GitHub issue and assign it to the person who is planning on completing it. Note that these assignments will not be final as some tasks will be more difficult than expected and others will be easier and additional tasks will need to be completed as your design evolves. This will simply serve as a plan of action for how the work will be split between partners. Finally, you should use markdown to create a link between the development and testing roadmap task and the associated issue.---> 
